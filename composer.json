@@ -1,0 +1,15 @@
+{
+	"autoload": {
+        "psr-4": {
+            "Calculator\\": "app/Calculator"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Calculator\\Tests\\": "tests/"
+        }
+    },
+	"require-dev": {
+		"phpunit/phpunit": "8"
+	}
+}
