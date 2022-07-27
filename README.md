@@ -3,7 +3,7 @@ Commission Calculator
 
 git clone https://github.com/ngBulgaria/commissions.git
 
-navigate to folder and white $ php script.php input.csv
+navigate to folder and write $ php script.php input.csv
 
 app/Calculator/Config
   - configuration file for global constant variables
